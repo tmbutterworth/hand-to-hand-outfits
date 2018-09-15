@@ -8,6 +8,9 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
+outfitter "Ammo South"
+	"Bolt Action Rifle"
+
 outfitter "Common Outfits"
 	"Sidearm"
 	"Stun Grenades"
@@ -88,3 +91,5 @@ outfitter "Syndicate Advanced"
 
 outfitter "Pirate Outfits"
 	"Sidearm"
+
+

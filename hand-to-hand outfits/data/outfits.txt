@@ -53,6 +53,7 @@ outfit "Tear Gas"
 
 
 outfit "Blaster Rifle"
+	plural "Blaster Rifles"
 	category "Hand to Hand"
 	cost 4000
 	thumbnail "outfit/blaster rifle"
@@ -62,7 +63,19 @@ outfit "Blaster Rifle"
 	description "The Syndicate blaster rifle is not as deadly as the more expensive laser rifle but it is also not as expensive. The Syndicate bulk produces these rifle's for their ships so they only come in Syndicate colors. For each of these rifles that one of your crew is wielding, your odds of capturing another ship or defending your own ship from boarders are increased substantially."
 
 
+outfit "Bolt Action Rifle"
+	plural "Bolt Action Rifles"
+	category "Hand to Hand"
+	cost 250
+	thumbnail "outfit/bolt action rifle"
+	"capture attack" .05
+	"capture defense" .05
+	"unplunderable" 1
+	description "Bolt action rifles are old projectile weapons primarily used by farmers in the dirt belt to kill wild life that is threatening their crops. These rifles are very acurate but hold limited ammunition. Sidearms are the standard base weapon on star ships but if you can't afford them Bolt Action Rifles are better than nothing."
+
+
 outfit "Assault Rifle"
+	plural "Assault Rifles"
 	category "Hand to Hand"
 	cost 12000
 	thumbnail "outfit/assault rifle"
@@ -73,10 +86,11 @@ outfit "Assault Rifle"
 
 
 outfit "Sidearm"
+	plural "Sidearms"
 	category "Hand to Hand"
 	cost 1000
 	thumbnail "outfit/sidearm"
-	"capture attack" .1
+	"capture attack" .2
 	"capture defense" .2
 	"unplunderable" 1
 	description "The sidearm is relatively standard on merchant ships that operate safely away from pirate worlds in area's with only small pirate attacks. Sidearms are not particularly useful for capturing ships but they are better than going in unarmed."
