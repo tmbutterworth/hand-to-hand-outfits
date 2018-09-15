@@ -10,11 +10,11 @@
 
 outfitter "Common Outfits"
 	"Sidearm"
+	"Stun Grenades"
 
 outfitter "Deep Sky Advanced"
 	"Ship Armory"
 	"Assault Rifle"
-
 
 outfitter "Lovelace Basics"
 	"Flack Vest"
