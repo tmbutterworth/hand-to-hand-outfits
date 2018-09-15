@@ -8,15 +8,15 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-outfit "Body Armor"
-	plural "Body Armor"
+outfit "Flack Vest"
+	plural "Flack Vests"
 	category "Hand to Hand"
 	cost 25000
 	thumbnail "outfit/body armor"
 	"capture attack" 2
 	"capture defense" 2
 	"unplunderable" 1
-	description "Naval body armor is knife, bullet, blaster and laser resistant. The only thing better than this is The Navy's tactical armor."
+	description "The Naval flack vest is knife, bullet, blaster and laser resistant. The only thing better than this is The Navy's tactical armor."
 
 
 outfit "Tactical Armor"

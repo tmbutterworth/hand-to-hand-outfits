@@ -17,7 +17,7 @@ outfitter "Deep Sky Advanced"
 
 
 outfitter "Lovelace Basics"
-	"Body Armor"
+	"Flack Vest"
 	"Stun Grenades"
 	"Tear Gas"
 
