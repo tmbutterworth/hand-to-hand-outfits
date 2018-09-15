@@ -82,10 +82,10 @@ outfit "Sidearm"
 	description "The sidearm is relatively standard on merchant ships that operate safely away from pirate worlds in area's with only small pirate attacks. Sidearms are not particularly useful for capturing ships but they are better than going in unarmed."
 
 
-outfit "Ship Armory"
-	plural "Ship Armories"
+outfit "Small Ship Armory"
+	plural "Small Ship Armories"
 	category "Hand to Hand"
-	thumbnail "outfit/armory"
+	thumbnail "outfit/small armory"
 	cost 480000
 	mass 22
 	"outfit space" -22
