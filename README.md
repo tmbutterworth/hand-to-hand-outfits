@@ -17,6 +17,8 @@ Outfits Include: Flack Vest, Tactical Armor, Stun Grenades, Tear Gas, Blaster Ri
 
 **Sidearm** - This hand-to-hand outfit is the least expensive and least effective weapon. They are low cost and available almost everywhere. Having them is better than being unarmed.
 
-**Small Ship Armory** - This hand-to-hand outfit increased the armory value of a ship which increases its capture and defense capability. The current art work being used as concept is from Rafael Ramawadh Plug-in Shields Up.
+**Small Armory** - This hand-to-hand outfit provides a selection of readily available offensive and defensive weapons to the crew increasing attack and defense capabilities. The armory takes up mass on the ship. The current art work being used as concept is from Rafael Ramawadh Plug-in Shields Up.
+
+**Large Armory** - This hand-to-hand outfit provides a selection of readily available offensive and defensive weapons to the crew increasing attack and defense capabilities. The armory takes up mass on the ship. The current art work being used as concept is from Rafael Ramawadh Plug-in Shields Up.
 
 No new missions, licenses or events have been added all outfits are available at the start of the game.

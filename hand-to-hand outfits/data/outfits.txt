@@ -88,9 +88,9 @@ outfit "Small Armory"
 	thumbnail "outfit/small armory"
 	"capture attack" 25
 	"capture defense" 25
-	cost 480000
-	mass 22
-	"outfit space" -22
+	cost 100000
+	mass 10
+	"outfit space" -10
 	description "This small armory provides an assortment of offensive and defensive weapons for your crew that are securely stored and readily available in the event you are boarding or being boarded."
 
 
@@ -100,8 +100,8 @@ outfit "Large Armory"
 	thumbnail "outfit/large armory"
 	"capture attack" 50
 	"capture defense" 50
-	cost 480000
-	mass 44
-	"outfit space" -44
+	cost 200000
+	mass 20
+	"outfit space" -20
 	description "This large armory provides an assortment of offensive and defensive weapons for your crew that are securely stored and readily available in the event you are boarding or being boarded."
 
