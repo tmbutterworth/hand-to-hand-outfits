@@ -82,13 +82,26 @@ outfit "Sidearm"
 	description "The sidearm is relatively standard on merchant ships that operate safely away from pirate worlds in area's with only small pirate attacks. Sidearms are not particularly useful for capturing ships but they are better than going in unarmed."
 
 
-outfit "Small Ship Armory"
-	plural "Small Ship Armories"
+outfit "Small Armory"
+	plural "Small Armories"
 	category "Hand to Hand"
 	thumbnail "outfit/small armory"
+	"capture attack" 1.5
+	"capture defense" 1.5
 	cost 480000
 	mass 22
 	"outfit space" -22
-	"armory capacity" 60
+	description "For the captains who make their money by boarding, this section of the ship allows you to use more advanced and stronger boarding weapons."
+
+
+outfit "Large Armory"
+	plural "Large Armories"
+	category "Hand to Hand"
+	thumbnail "outfit/large armory"
+	"capture attack" 3
+	"capture defense" 3
+	cost 480000
+	mass 44
+	"outfit space" -44
 	description "For the captains who make their money by boarding, this section of the ship allows you to use more advanced and stronger boarding weapons."
 
