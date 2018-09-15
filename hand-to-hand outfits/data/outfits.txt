@@ -1,0 +1,94 @@
+# Copyright (c) 2018 by Timothy Butterworth
+#
+# Endless Sky is free software: you can redistribute it and/or modify it under the
+# terms of the GNU General Public License as published by the Free Software
+# Foundation, either version 3 of the License, or (at your option) any later version.
+#
+# Endless Sky is distributed in the hope that it will be useful, but WITHOUT ANY
+# WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+# PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+outfit "Body Armor"
+	plural "Body Armor"
+	category "Hand to Hand"
+	cost 25000
+	thumbnail "outfit/body armor"
+	"capture attack" 2
+	"capture defense" 2
+	"unplunderable" 1
+	description "Naval body armor is knife, bullet, blaster and laser resistant. The only thing better than this is The Navy's tactical armor."
+
+
+outfit "Tactical Armor"
+	plural "Tactical Armor"
+	category "Hand to Hand"
+	cost 50000
+	thumbnail "outfit/tactical armor"
+	"capture attack" 4
+	"capture defense" 4
+	"unplunderable" 1
+	description "Naval tactical armor is knife, bullet, grenade, blaster and laser resistant. It is a full an complete ensemble providing protection from head to toe."
+
+
+outfit "Stun Grenades"
+	plural "Stun Grenades"
+	category "Hand to Hand"
+	cost 15000
+	thumbnail "outfit/stun grenades"
+	"capture attack" 1
+	"capture defense" .3
+	"unplunderable" 1
+	description "Stun grenades are a non-lethal weapon for hand-to-hand combat when boarding a ship, useful for flushing out defenders who are hunkered down in defensible choke points inside their own ship. They are much less useful as a defensive weapon, but still better than nothing."
+
+
+outfit "Tear Gas"
+	plural "Tear Gas"
+	category "Hand to Hand"
+	cost 35000
+	thumbnail "outfit/tear gas"
+	"capture attack" 2
+	"capture defense" .3
+	"unplunderable" 1
+	description "Tear gas is a non-lethal weapon for hand-to-hand combat when boarding a ship, useful for flushing out defenders who are hunkered down in defensible choke points inside their own ship. It is much less useful as a defensive weapon, but still better than nothing."
+
+
+outfit "Blaster Rifle"
+	category "Hand to Hand"
+	cost 4000
+	thumbnail "outfit/blaster rifle"
+	"capture attack" .4
+	"capture defense" .6
+	"unplunderable" 1
+	description "The Syndicate blaster rifle is not as deadly as the more expensive laser rifle but it is also not as expensive. The Syndicate bulk produces these rifle's for their ships so they only come in Syndicate colors. For each of these rifles that one of your crew is wielding, your odds of capturing another ship or defending your own ship from boarders are increased substantially."
+
+
+outfit "Assault Rifle"
+	category "Hand to Hand"
+	cost 12000
+	thumbnail "outfit/assault rifle"
+	"capture attack" 1.2
+	"capture defense" .8
+	"unplunderable" 1
+	description "Smaller, more maneuverable and with more firepower than the common laser rifle, the assault rifle further improves the odds of capturing another ship or defending your own ship from boarders."
+
+
+outfit "Sidearm"
+	category "Hand to Hand"
+	cost 1000
+	thumbnail "outfit/sidearm"
+	"capture attack" .1
+	"capture defense" .2
+	"unplunderable" 1
+	description "The sidearm is relatively standard on merchant ships that operate safely away from pirate worlds in area's with only small pirate attacks. Sidearms are not particularly useful for capturing ships but they are better than going in unarmed."
+
+
+outfit "Ship Armory"
+	plural "Ship Armories"
+	category "Hand to Hand"
+	thumbnail "outfit/armory"
+	cost 480000
+	mass 22
+	"outfit space" -22
+	"armory capacity" 60
+	description "For the captains who make their money by boarding, this section of the ship allows you to use more advanced and stronger boarding weapons."
+
