@@ -12,7 +12,7 @@ outfit "Flack Vest"
 	plural "Flack Vests"
 	category "Hand to Hand"
 	cost 25000
-	thumbnail "outfit/body armor"
+	thumbnail "outfit/flack vest"
 	"capture attack" 2
 	"capture defense" 2
 	"unplunderable" 1
