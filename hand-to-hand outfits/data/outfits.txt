@@ -86,8 +86,8 @@ outfit "Small Armory"
 	plural "Small Armories"
 	category "Hand to Hand"
 	thumbnail "outfit/small armory"
-	"capture attack" 1.5
-	"capture defense" 1.5
+	"capture attack" 25
+	"capture defense" 25
 	cost 480000
 	mass 22
 	"outfit space" -22
@@ -98,8 +98,8 @@ outfit "Large Armory"
 	plural "Large Armories"
 	category "Hand to Hand"
 	thumbnail "outfit/large armory"
-	"capture attack" 3
-	"capture defense" 3
+	"capture attack" 50
+	"capture defense" 50
 	cost 480000
 	mass 44
 	"outfit space" -44
