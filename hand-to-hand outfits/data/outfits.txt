@@ -91,7 +91,7 @@ outfit "Small Armory"
 	cost 480000
 	mass 22
 	"outfit space" -22
-	description "For the captains who make their money by boarding, this section of the ship allows you to use more advanced and stronger boarding weapons."
+	description "This small armory provides an assortment of offensive and defensive weapons for your crew that are securely stored and readily available in the event you are boarding or being boarded."
 
 
 outfit "Large Armory"
@@ -103,5 +103,5 @@ outfit "Large Armory"
 	cost 480000
 	mass 44
 	"outfit space" -44
-	description "For the captains who make their money by boarding, this section of the ship allows you to use more advanced and stronger boarding weapons."
+	description "This large armory provides an assortment of offensive and defensive weapons for your crew that are securely stored and readily available in the event you are boarding or being boarded."
 
