@@ -86,22 +86,22 @@ outfit "Small Armory"
 	plural "Small Armories"
 	category "Hand to Hand"
 	thumbnail "outfit/small armory"
-	"capture attack" 25
-	"capture defense" 25
+	"capture attack" 450
+	"capture defense" 318.75
 	cost 100000
 	mass 10
 	"outfit space" -10
-	description "This small armory provides an assortment of offensive and defensive weapons for your crew that are securely stored and readily available in the event you are boarding or being boarded."
+	description "This small armory provides an assortment of offensive and defensive weapons for your crew that are securely stored and readily available in the event you are boarding or being boarded. The armory also has a built in weapons training area which improves the effectiveness on the crew."
 
 
 outfit "Large Armory"
 	plural "Large Armories"
 	category "Hand to Hand"
 	thumbnail "outfit/large armory"
-	"capture attack" 50
-	"capture defense" 50
+	"capture attack" 900
+	"capture defense" 637.5
 	cost 200000
 	mass 20
 	"outfit space" -20
-	description "This large armory provides an assortment of offensive and defensive weapons for your crew that are securely stored and readily available in the event you are boarding or being boarded."
+	description "This large armory provides an assortment of offensive and defensive weapons for your crew that are securely stored and readily available in the event you are boarding or being boarded. The armory also has a built in weapons training area which improves the effectiveness on the crew." 
 
