@@ -1,1 +1,3 @@
-A plugin that adds a number of hand-to-hand outfits. 
+A plugin that adds a number of hand-to-hand outfits to increase selection and availability.
+
+Outfits included are: flack vest, tactical armor, stun grenades, tear gas, blaster rifle, assault rifle, sidearm and small ship armory.

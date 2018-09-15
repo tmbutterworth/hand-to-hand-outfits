@@ -1,7 +1,7 @@
 # hand-to-hand outfits
 This is a plug-in for Endless Sky that adds a number of additional hand-to-hand outfits.
 
-Outfits Include: Flack Vest, Tactical Armor, Stun Grenades, Tear Gas, Blaster Rifle, Assault Rifle, Sidearm and Ship Armory.
+Outfits Include: Flack Vest, Tactical Armor, Stun Grenades, Tear Gas, Blaster Rifle, Assault Rifle, Sidearm and Small Ship Armory.
 
 **Flack Vest** - This hand-to-hand outfit provides a navy flack vest it increases capture attack and defense. The current art work being used as concept is from Phil Morley's Plug-in Phils Flavours available in Shields Up.
 
