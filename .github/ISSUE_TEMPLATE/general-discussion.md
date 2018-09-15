@@ -1,7 +1,7 @@
 ---
 name: General discussion
-about: Post General Discussion Issues Here
+about: Please limit discussion to hand-to-hand outfits
 
 ---
 
-**Please limit discussion to hand-to-hand outfits.**
+
