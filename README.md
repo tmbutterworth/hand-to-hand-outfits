@@ -1,7 +1,7 @@
 # hand-to-hand outfits
 This is a plug-in for Endless Sky that adds a number of additional hand-to-hand outfits.
 
-Outfits Include: Flack Vest, Tactical Armor, Stun Grenades, Tear Gas, Blaster Rifle, Assault Rifle, Sidearm and Small Ship Armory.
+Outfits Include: Flack Vest, Tactical Armor, Stun Grenades, Tear Gas, Bolt Action Rifle, Blaster Rifle, Assault Rifle, Sidearm, Small Armory and Large Armory.
 
 **Flack Vest** - This hand-to-hand outfit provides a navy flack vest it increases capture attack and defense. The current art work being used as concept is from Phil Morley's Plug-in Phils Flavours available in Shields Up.
 
@@ -10,6 +10,8 @@ Outfits Include: Flack Vest, Tactical Armor, Stun Grenades, Tear Gas, Blaster Ri
 **Stun Grenades** - This hand-to-hand outfit is less expensive and less effective than fragmentation grenades. Unlike Fragmentation Grenades which are only available on pirate worlds stun grenades are available at various outfitters in Republic, Syndicate and Free Worlds space.
 
 **Tear Gas** - This hand-to-hand outfit is more expensive and more effective than fragmentation grenades. Tear gas is available at a few select outfitters.
+
+**Bolt Action Rifle** - This hand-to-hand outfit is the least expensive and least effective. It is sold around the dirt belt purchased mostly by farmers to kill wildlife.
 
 **Blaster Rifle** - This hand-to-hand outfit is less expensive and less effective than the laser rifle. It is produced exclusively by The Syndicate and available at Syndicate outfitters.
 
