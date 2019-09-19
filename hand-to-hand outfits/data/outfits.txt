@@ -55,7 +55,7 @@ outfit "Tear Gas"
 outfit "Blaster Rifle"
 	plural "Blaster Rifles"
 	category "Hand to Hand"
-	cost 4000
+	cost 5000
 	thumbnail "outfit/blaster rifle"
 	"capture attack" .4
 	"capture defense" .6
@@ -88,7 +88,7 @@ outfit "Assault Rifle"
 outfit "Sidearm"
 	plural "Sidearms"
 	category "Hand to Hand"
-	cost 3000
+	cost 2500
 	thumbnail "outfit/sidearm"
 	"capture attack" .25
 	"capture defense" .25
