@@ -66,10 +66,10 @@ outfit "Blaster Rifle"
 outfit "Bolt Action Rifle"
 	plural "Bolt Action Rifles"
 	category "Hand to Hand"
-	cost 250
+	cost 1000
 	thumbnail "outfit/bolt action rifle"
-	"capture attack" .05
-	"capture defense" .05
+	"capture attack" .1
+	"capture defense" .1
 	"unplunderable" 1
 	description "Bolt action rifles are old projectile weapons primarily used by farmers in the dirt belt to kill wild life that is threatening their crops. These rifles are very acurate but hold limited ammunition. Sidearms are the standard base weapon on star ships but if you can't afford them Bolt Action Rifles are better than nothing."
 
@@ -88,10 +88,10 @@ outfit "Assault Rifle"
 outfit "Sidearm"
 	plural "Sidearms"
 	category "Hand to Hand"
-	cost 1000
+	cost 3000
 	thumbnail "outfit/sidearm"
-	"capture attack" .2
-	"capture defense" .2
+	"capture attack" .25
+	"capture defense" .25
 	"unplunderable" 1
 	description "The sidearm is relatively standard on merchant ships that operate safely away from pirate worlds in area's with only small pirate attacks. Sidearms are not particularly useful for capturing ships but they are better than going in unarmed."
 
@@ -100,9 +100,9 @@ outfit "Small Armory"
 	plural "Small Armories"
 	category "Hand to Hand"
 	thumbnail "outfit/small armory"
-	"capture attack" 450
-	"capture defense" 318.75
-	cost 100000
+	"capture attack" 13
+	"capture defense" 13
+	cost 150000
 	mass 10
 	"outfit space" -10
 	description "This small armory provides an assortment of offensive and defensive weapons for your crew that are securely stored and readily available in the event you are boarding or being boarded. The armory also has a built in weapons training area which improves the effectiveness on the crew."
@@ -112,9 +112,9 @@ outfit "Large Armory"
 	plural "Large Armories"
 	category "Hand to Hand"
 	thumbnail "outfit/large armory"
-	"capture attack" 900
-	"capture defense" 637.5
-	cost 200000
+	"capture attack" 35
+	"capture defense" 35
+	cost 400000
 	mass 20
 	"outfit space" -20
 	description "This large armory provides an assortment of offensive and defensive weapons for your crew that are securely stored and readily available in the event you are boarding or being boarded. The armory also has a built in weapons training area which improves the effectiveness on the crew." 
