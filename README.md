@@ -1,3 +1,5 @@
+Updated to work with ES 0.9.9 (and later) + rebalanced to fit with Vanilla and most popular variety plugins quality/price ratio (no more +900 attack from Armory or other OP things like that).
+
 # hand-to-hand outfits
 This is a plug-in for Endless Sky that adds a number of additional hand-to-hand outfits.
 
