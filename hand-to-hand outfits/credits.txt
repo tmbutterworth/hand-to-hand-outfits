@@ -11,4 +11,6 @@
 special thanks go out to;
 Michael Zahniser and team; For creating the launchpad
 
-Artwork from the great artists and developers of the popular Shields Up mod available on GitHub. 
+Artwork from the great artists and developers of the popular Shields Up mod available on GitHub.
+
+Tweaks by CatLady.
