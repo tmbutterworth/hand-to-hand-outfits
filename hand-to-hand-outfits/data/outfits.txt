@@ -11,9 +11,9 @@
 outfit "Flack Vest"
 	plural "Flack Vests"
 	category "Hand to Hand"
-	cost 25000
+	cost 50000
 	thumbnail "outfit/flack vest"
-	"capture attack" 2
+	"capture attack" 1.6
 	"capture defense" 2
 	"unplunderable" 1
 	description "The Naval flack vest is knife, bullet, blaster and laser resistant. The only thing better than this is The Navy's tactical armor."
@@ -22,18 +22,20 @@ outfit "Flack Vest"
 outfit "Tactical Armor"
 	plural "Tactical Armor"
 	category "Hand to Hand"
-	cost 50000
+	cost 150000
 	thumbnail "outfit/tactical armor"
 	"capture attack" 4
-	"capture defense" 4
+	"capture defense" 2
 	"unplunderable" 1
 	description "Naval tactical armor is knife, bullet, grenade, blaster and laser resistant. It is a full an complete ensemble providing protection from head to toe."
+	licenses
+		Navy
 
 
 outfit "Stun Grenades"
 	plural "Stun Grenades"
 	category "Hand to Hand"
-	cost 15000
+	cost 13000
 	thumbnail "outfit/stun grenades"
 	"capture attack" 1
 	"capture defense" .3
@@ -55,7 +57,7 @@ outfit "Tear Gas"
 outfit "Blaster Rifle"
 	plural "Blaster Rifles"
 	category "Hand to Hand"
-	cost 5000
+	cost 4500
 	thumbnail "outfit/blaster rifle"
 	"capture attack" .4
 	"capture defense" .6
@@ -77,7 +79,7 @@ outfit "Bolt Action Rifle"
 outfit "Assault Rifle"
 	plural "Assault Rifles"
 	category "Hand to Hand"
-	cost 12000
+	cost 15000
 	thumbnail "outfit/assault rifle"
 	"capture attack" 1.2
 	"capture defense" .8
@@ -102,7 +104,7 @@ outfit "Small Armory"
 	thumbnail "outfit/small armory"
 	"capture attack" 13
 	"capture defense" 13
-	cost 150000
+	cost 200000
 	mass 10
 	"outfit space" -10
 	description "This small armory provides an assortment of offensive and defensive weapons for your crew that are securely stored and readily available in the event you are boarding or being boarded. The armory also has a built in weapons training area which improves the effectiveness on the crew."
@@ -114,7 +116,7 @@ outfit "Large Armory"
 	thumbnail "outfit/large armory"
 	"capture attack" 35
 	"capture defense" 35
-	cost 400000
+	cost 600000
 	mass 20
 	"outfit space" -20
 	description "This large armory provides an assortment of offensive and defensive weapons for your crew that are securely stored and readily available in the event you are boarding or being boarded. The armory also has a built in weapons training area which improves the effectiveness on the crew." 
