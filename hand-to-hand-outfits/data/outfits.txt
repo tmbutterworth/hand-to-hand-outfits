@@ -29,7 +29,7 @@ outfit "Tactical Armor"
 	"unplunderable" 1
 	description "Naval tactical armor is knife, bullet, grenade, blaster and laser resistant. It is a full an complete ensemble providing protection from head to toe."
 	licenses
-		Navy
+		"Militia Carrier"
 
 
 outfit "Stun Grenades"
@@ -120,4 +120,5 @@ outfit "Large Armory"
 	mass 20
 	"outfit space" -20
 	description "This large armory provides an assortment of offensive and defensive weapons for your crew that are securely stored and readily available in the event you are boarding or being boarded. The armory also has a built in weapons training area which improves the effectiveness on the crew." 
-
+	licenses
+		"Militia Carrier"
