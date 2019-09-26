@@ -1,10 +1,12 @@
 # Copyright (c) 2018 by Timothy Butterworth
+# Copyright (c) 2019 by Cat Lady
 #
 # Endless Sky is free software: you can redistribute it and/or modify it under the
 # terms of the GNU General Public License as published by the Free Software
 # Foundation, either version 3 of the License, or (at your option) any later version.
 #
-# Endless Sky is distributed in the hope that it will be useful, but WITHOUT ANY
+# Endless Sky is distributed in the hope that 
+it will be useful, but WITHOUT ANY
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
@@ -29,7 +31,7 @@ outfit "Advanced Tactical Battle Suit"
 	"unplunderable" 1
 	description "The Navy's Advanced Tactical Battle Suit (ATBS) is a full an complete ensemble - providing protection from head to toe, and nearly impenetrable to regular blaster or laser fire. The helmet's HUD paired with an Assault Rifle shows real-time targeting information and calculates origin of incoming fire. Grenades and a backup pistol complete this battle-proven set. (Un)fortunately, its production is tightly controlled, and those are only available to the Republic Navy's/Intelligence shock squads... Or, very rarely, worn by pirates, who somehow managed to overcome Navy's warships (and broken system's protection against unauthorized use)."
 	licenses
-		"Militia Carrier"
+		"Navy"
 
 
 outfit "Stun Grenades"

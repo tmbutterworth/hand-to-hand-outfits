@@ -1,4 +1,4 @@
-# Copyright (c) 2018 Timothy Butterworth
+# Copyright (c) 2019 by Cat Lady
 # 
 # Endless Sky is free software: you can redistribute it and/or modify it under the
 # terms of the GNU General Public License as published by the Free Software
@@ -9,8 +9,8 @@
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
 special thanks go out to;
-Michael Zahniser and team; For creating the launchpad
+"Endless Sky" Development Teatm and Michael Zahniser; For maintaining and creating the game
+Timothy Butterworth; for the initial base of the plugin
 
-Artwork from the great artists and developers of the popular Shields Up mod available on GitHub.
-
-Tweaks by CatLady.
+Artwork:
+Thanks to all great artists listed in ./copyright.txt
