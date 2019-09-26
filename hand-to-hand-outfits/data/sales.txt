@@ -1,4 +1,4 @@
-# Copyright (c) 2018 by Timothy Butterworth
+# Copyright (c) 2018 by Timothy Butterworth (c) 2019 by Cat Lady
 #
 # Endless Sky is free software: you can redistribute it and/or modify it under the
 # terms of the GNU General Public License as published by the Free Software
@@ -11,27 +11,37 @@
 outfitter "Kraz Basics"
 	"Bolt Action Rifle"
 
+outfitter "Kraz Advanced"
+	"Battle Armor & Equipment"
+	"Advanced Tactical Battle Suit"
+
 outfitter "Common Outfits"
 	"Sidearm"
 	"Stun Grenades"
+	"Battle Armor & Equipment"
 
 outfitter "Deep Sky Advanced"
 	"Large Armory"
 	"Small Armory"
 	"Assault Rifle"
+	"Battle Armor & Equipment"
 
 outfitter "Lovelace Basics"
-	"Flack Vest"
+	"Battle Armor & Equipment"
 	"Stun Grenades"
 	"Tear Gas"
 
 outfitter "Lovelace Advanced"
-	"Tactical Armor"
+	"Advanced Tactical Battle Suit"
 	"Stun Grenades"
 	"Tear Gas"
 	"Large Armory"
 	"Small Armory"
 	"Assault Rifle"
+
+outfitter "Delta V Advanced"
+	"Battle Armor & Equipment"
+	"Advanced Tactical Battle Suit"
 
 outfitter "Syndicate Basics"
 	clear
@@ -83,13 +93,13 @@ outfitter "Syndicate Advanced"
 	"D41-HY Shield Generator"
 	"D67-TM Shield Generator"
 	"Security Station"
+	"Luxury Accommodations"
 	"Scram Drive"
 	"Sidearm"
 	"Large Armory"
 	"Small Armory"
 	"Assault Rifle"
+	"Battle Armor & Equipment"
 
 outfitter "Pirate Outfits"
 	"Sidearm"
-
-

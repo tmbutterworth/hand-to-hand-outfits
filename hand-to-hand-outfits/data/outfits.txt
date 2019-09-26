@@ -8,26 +8,26 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-outfit "Flack Vest"
-	plural "Flack Vests"
+outfit "Battle Armor & Equipment"
+	plural "Battle Armors & Equipment"
 	category "Hand to Hand"
 	cost 50000
 	thumbnail "outfit/flack vest"
 	"capture attack" 1.6
 	"capture defense" 2
 	"unplunderable" 1
-	description "The Naval flack vest is knife, bullet, blaster and laser resistant. The only thing better than this is The Navy's tactical armor."
+	description "This is a standardized set used by Militia boarding complements, or guards onboard (wealthy) merchant's fleets. Typically, it contains of a flack vest (offering fair amount of protection from blaster and laser fire, impenetrable to blades and bullets), a blaster rifle and stun grenade. The only thing giving better protection is the Navy's licensed ATBS (Advanced Tactical Battle Suit)."
 
 
-outfit "Tactical Armor"
-	plural "Tactical Armor"
+outfit "Advanced Tactical Battle Suit"
+	plural "Advanced Battle Suits"
 	category "Hand to Hand"
 	cost 150000
 	thumbnail "outfit/tactical armor"
 	"capture attack" 4
 	"capture defense" 2
 	"unplunderable" 1
-	description "Naval tactical armor is knife, bullet, grenade, blaster and laser resistant. It is a full an complete ensemble providing protection from head to toe."
+	description "The Navy's Advanced Tactical Battle Suit (ATBS) is a full an complete ensemble - providing protection from head to toe, and nearly impenetrable to regular blaster or laser fire. The helmet's HUD paired with an Assault Rifle shows real-time targeting information and calculates origin of incoming fire. Grenades and a backup pistol complete this battle-proven set. (Un)fortunately, its production is tightly controlled, and those are only available to the Republic Navy's/Intelligence shock squads... Or, very rarely, worn by pirates, who somehow managed to overcome Navy's warships (and broken system's protection against unauthorized use)."
 	licenses
 		"Militia Carrier"
 
@@ -40,7 +40,7 @@ outfit "Stun Grenades"
 	"capture attack" 1
 	"capture defense" .3
 	"unplunderable" 1
-	description "Stun grenades are a non-lethal weapon for hand-to-hand combat when boarding a ship, useful for flushing out defenders who are hunkered down in defensible choke points inside their own ship. They are much less useful as a defensive weapon, but still better than nothing."
+	description "Stun Grenades are non-lethal weapon, useful for flushing out defenders hunkered down in choke points, inside their own ship. They are much less viable - though - when used as defensive measurements."
 
 
 outfit "Tear Gas"
@@ -51,7 +51,7 @@ outfit "Tear Gas"
 	"capture attack" 2
 	"capture defense" .3
 	"unplunderable" 1
-	description "Tear gas is a non-lethal weapon for hand-to-hand combat when boarding a ship, useful for flushing out defenders who are hunkered down in defensible choke points inside their own ship. It is much less useful as a defensive weapon, but still better than nothing."
+	description "Tear Gas is a non-lethal weapon, very useful for flushing out defenders hunkered down in choke points inside their own ship. It is much less viable - though - when used as a defensive measurement."
 
 
 outfit "Blaster Rifle"
@@ -62,7 +62,7 @@ outfit "Blaster Rifle"
 	"capture attack" .4
 	"capture defense" .6
 	"unplunderable" 1
-	description "The Syndicate blaster rifle is not as deadly as the more expensive laser rifle but it is also not as expensive. The Syndicate bulk produces these rifle's for their ships so they only come in Syndicate colors. For each of these rifles that one of your crew is wielding, your odds of capturing another ship or defending your own ship from boarders are increased substantially."
+	description "The Syndicate's Blaster Rifle is not as deadly as the more expensive Laser Rifle, but is much cheaper, as Syndicate bulk produces those. For each that one of your crew is wielding, your odds of capturing another ship or defending your own from boarders are increased substantially."
 
 
 outfit "Bolt Action Rifle"
@@ -73,7 +73,7 @@ outfit "Bolt Action Rifle"
 	"capture attack" .1
 	"capture defense" .1
 	"unplunderable" 1
-	description "Bolt action rifles are old projectile weapons primarily used by farmers in the dirt belt to kill wild life that is threatening their crops. These rifles are very acurate but hold limited ammunition. Sidearms are the standard base weapon on star ships but if you can't afford them Bolt Action Rifles are better than nothing."
+	description "Bolt Action Rifles are old projectile weapons, primarily used by farmers in the dirt belt to kill wildlife that is threatening their crops (or themselves). These rifles are very acurate, but hold limited ammunition and are painfully slow to reload. Despite this, when you try to board or are boarded, having one is still better than nothing."
 
 
 outfit "Assault Rifle"
@@ -84,7 +84,7 @@ outfit "Assault Rifle"
 	"capture attack" 1.2
 	"capture defense" .8
 	"unplunderable" 1
-	description "Smaller, more maneuverable and with more firepower than the common laser rifle, the assault rifle further improves the odds of capturing another ship or defending your own ship from boarders."
+	description "Smaller, more maneuverable and with more firepower than the common Laser Rifle, the Assault Rifle further improves the odds of capturing another ship or defending your own from boarders."
 
 
 outfit "Sidearm"
@@ -95,7 +95,7 @@ outfit "Sidearm"
 	"capture attack" .25
 	"capture defense" .25
 	"unplunderable" 1
-	description "The sidearm is relatively standard on merchant ships that operate safely away from pirate worlds in area's with only small pirate attacks. Sidearms are not particularly useful for capturing ships but they are better than going in unarmed."
+	description "The basic sidearms are relatively standard on merchant ships that operate safely away from pirate-controlled worlds, in areas with only minor risk of criminal activity. Sidearms are not particularly useful for actively capturing ships, but obviously, are better than going in unarmed."
 
 
 outfit "Small Armory"
@@ -107,7 +107,7 @@ outfit "Small Armory"
 	cost 200000
 	mass 10
 	"outfit space" -10
-	description "This small armory provides an assortment of offensive and defensive weapons for your crew that are securely stored and readily available in the event you are boarding or being boarded. The armory also has a built in weapons training area which improves the effectiveness on the crew."
+	description "The Small Armory provides an assortment of offensive and defensive weapons that are securely stored and readily available, in the event you are boarding or being boarded. A built-in weapons training area improves combat effectiveness of the crew."
 
 
 outfit "Large Armory"
@@ -119,6 +119,6 @@ outfit "Large Armory"
 	cost 600000
 	mass 20
 	"outfit space" -20
-	description "This large armory provides an assortment of offensive and defensive weapons for your crew that are securely stored and readily available in the event you are boarding or being boarded. The armory also has a built in weapons training area which improves the effectiveness on the crew." 
+	description "Large Armory provides a huge assortment of offensive and defensive weapons (ranging from backup sidearms, to assault rifles and gas grenades) that are securely stored and readily available, in the event you are boarding or being boarded. A built in advanced training area (including android targeting dummies programmed for simulating various battle scenarios) hugely improves battle readiness of the crew. Obviously, no government encourages civilian possession of such sophisticated arsenal and training facilities, so owning these is restricted to detachments of Militia and Navy." 
 	licenses
 		"Militia Carrier"
