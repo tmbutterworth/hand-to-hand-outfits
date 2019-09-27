@@ -31,7 +31,7 @@ ship "Aerie" "Aerie-armed3"
 	turret "Heavy Laser Turret"
 
 
-ship "Argosy" "Argosy armed-2"
+ship "Argosy" "Argosy-armed2"
 	outfits
 		"Energy Blaster" 2
 		"Meteor Missile Launcher" 2
@@ -80,7 +80,7 @@ ship "Argosy" "Argosy (Blaster)-armed2"
 		"Battle Armor & Equipment" 4
 
 
-ship "Argosy" "Argosy (Blaster-armed1)"
+ship "Argosy" "Argosy (Blaster)-armed1"
 	outfits
 		"Energy Blaster" 4
 		"Quad Blaster Turret" 2
@@ -313,7 +313,7 @@ ship "Arrow" "Arrow-blaster"
 	turret "Anti-Missile Turret"
 
 
-ship "Arrow" "Arrow (Hai)-armed-pulse"
+ship "Arrow" "Arrow (Hai)-armed2"
 	outfits
 		"Sidewinder Missile Launcher" 2
 		"Sidewinder Missile" 90
@@ -613,6 +613,7 @@ ship "Bactrian" "Bactrian (Hired Gun)-armed20"
 		"Outfits Expansion" 2
 		"Laser Rifle" 20
 		"Battle Armor & Equipment" 20
+		"Advanced Tactical Battle Suit"
 		"Small Armory"
 		"Security Station"
 		"A520 Atomic Thruster"
