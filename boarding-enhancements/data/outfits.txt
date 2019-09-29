@@ -64,7 +64,7 @@ outfit "Blaster Rifle"
 	"capture attack" .4
 	"capture defense" .6
 	"unplunderable" 1
-	description "The Syndicate's Blaster Rifle is not as deadly as the more expensive Laser Rifle, but is much cheaper, as Syndicate bulk produces those. For each that one of your crew is wielding, your odds of capturing another ship or defending your own from boarders are increased substantially."
+	description "The Syndicate's Blaster Rifle is not as deadly as the Laser Rifle, but is much cheaper, as Syndicate bulk produces those. For each that one of your crew is wielding, your odds of capturing another ship or defending your own from boarders are increased substantially."
 
 
 outfit "Bolt Action Rifle"
