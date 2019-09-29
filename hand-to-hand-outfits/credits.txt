@@ -8,8 +8,10 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-special thanks go out to;
+special thanks to:
 "Endless Sky" Development Teatm and Michael Zahniser; For maintaining and creating the game
+Lleyton, KIV King from "Endless Sky" Chat Community - for proofreading and error-correcting outfit's descriptions.
+"Endless Sky" Chat Community - for patiently explaining how stuff works - without it, the outfits would be never integrated into AI's usage.
 Timothy Butterworth; for the initial base of the plugin
 
 Artwork:

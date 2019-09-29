@@ -1,3 +1,1 @@
-A plugin that adds a number of hand-to-hand outfits to increase selection and availability.
-
-Outfits included are: flack vest, tactical armor, stun grenades, tear gas, bolt action rifle, blaster rifle, assault rifle, sidearm, small armory and large armory.
+This plugin integrates boarding enchancements (doh!) into FOSS game "Endless Sky". It adds various human-space boarding related outfits, balanced around vanilla experience and fully integrated into game (purchase availability, usage by AI fleets, licenses required) - everything should perfectly fit into base game's feel. 

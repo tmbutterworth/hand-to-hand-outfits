@@ -5,7 +5,7 @@
 # Foundation, either version 3 of the License, or (at your option) any later version.
 #
 # Endless Sky is distributed in the hope that 
-it will be useful, but WITHOUT ANY
+# it will be useful, but WITHOUT ANY
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
@@ -216,7 +216,6 @@ ship "Argosy" "Argosy (Proton)-armed4"
 		"Hyperdrive"
 		"Blaster Rifle" 4
 		"Battle Armor & Equipment" 4
-	turret "Heavy Anti-Missile Turret"
 
 
 ship "Argosy" "Argosy (Proton)-armed2"
@@ -232,7 +231,6 @@ ship "Argosy" "Argosy (Proton)-armed2"
 		"Hyperdrive"
 		"Blaster Rifle" 2
 		"Battle Armor & Equipment" 2
-	turret "Heavy Anti-Missile Turret"
 
 
 ship "Argosy" "Argosy (Proton)-armed1"
@@ -412,7 +410,7 @@ ship "Bactrian" "Bactrian-armed10"
 	turret "Heavy Anti-Missile Turret"
 
 
-ship "Bactrian" "Bactrian-armed-5"
+ship "Bactrian" "Bactrian-armed5"
 	outfits
 		"Sidewinder Missile Launcher" 2
 		"Sidewinder Missile" 90
@@ -2168,7 +2166,7 @@ ship "Corvette" "Corvette (Speedy)-armed1"
 
 
 
-ship "Cruiser" "Cruiser-tacarmed5"
+ship "Cruiser" "Cruiser-armed20"
 	outfits
 		"Particle Cannon" 4
 		"Sidewinder Missile Launcher" 2
@@ -2178,13 +2176,12 @@ ship "Cruiser" "Cruiser-tacarmed5"
 		"Fusion Reactor"
 		"LP288a Battery Pack"
 		"D67-TM Shield Generator"
-		"Large Armory"
-		"Small Radar Jammer"
+		"Small Armory"
+		"Small Radar Jammer" 2
 		"Liquid Nitrogen Cooler"
 		"Laser Rifle" 20
-		"Battle Armor & Equipment" 10
-		"Advanced Tactical Battle Suit" 5
-		"Fragmentation Grenades" 20
+		"Battle Armor & Equipment" 20
+		"Fragmentation Grenades" 10
 		"Security Station" 2
 		"Tactical Scanner"
 		"X4700 Ion Thruster"
@@ -2236,10 +2233,11 @@ ship "Cruiser" "Cruiser-tacarmed5"
 		"Large Radar Jammer"
 		"Small Armory"
 		"Liquid Nitrogen Cooler"
-		"Assault Rifle" 20
+		"Assault Rifle" 10
+		"Laser Rifle"
 		"Battle Armor & Equipment" 15
 		"Advanced Tactical Battle Suit" 5
-		"Fragmentation Grenades" 20
+		"Fragmentation Grenades" 10
 		"Security Station" 2
 		"Tactical Scanner"
 		"X4700 Ion Thruster"
@@ -2259,10 +2257,10 @@ ship "Cruiser" "Cruiser (Heavy)-armed15"
 		"Heavy Laser Turret" 2
 		"Heavy Anti-Missile Turret"
 		"Quad Blaster Turret"
-		"Assault Rifle" 15
+		"Laser Rifle" 10
 		"Battle Armor & Equipment" 15
 		"Sidearm" 5
-		"Fragmentation Grenades" 15
+		"Stun Grenades" 15
 		"Armageddon Core"
 		"Dwarf Core"
 		"Supercapacitor"
@@ -2296,17 +2294,18 @@ ship "Cruiser" "Cruiser (Heavy)-tacarmed5"
 		"Heavy Laser Turret" 2
 		"Heavy Anti-Missile Turret"
 		"Quad Blaster Turret"
-		"Assault Rifle" 20
+		"Assault Rifle" 5
+		"Laser Rifle" 10
 		"Battle Armor & Equipment" 10
 		"Advanced Tactical Battle Suit" 5
-		"Fragmentation Grenades" 20
+		"Fragmentation Grenades" 15
 		"Armageddon Core"
 		"Dwarf Core"
 		"Supercapacitor"
 		"D94-YV Shield Generator"
 		"Small Radar Jammer"
 		"Liquid Helium Cooler"
-		"Small Armory""
+		"Small Armory"
 		"Outfits Expansion"
 		"Brig"
 		"A520 Atomic Thruster"
@@ -2325,7 +2324,7 @@ ship "Cruiser" "Cruiser (Heavy)-tacarmed5"
 	turret "Heavy Anti-Missile Turret"
 
 
-ship "Cruiser" "Cruiser (Heavy)-armed15"
+ship "Cruiser" "Cruiser (Heavy)-tacarmed15"
 	outfits
 		"Heavy Rocket Launcher" 2
 		"Heavy Rocket" 40
@@ -2333,23 +2332,21 @@ ship "Cruiser" "Cruiser (Heavy)-armed15"
 		"Heavy Laser Turret" 2
 		"Heavy Anti-Missile Turret"
 		"Quad Blaster Turret"
-		"Laser Rifle" 15
-		"Battle Armor & Equipment" 15
+		"Assault Rifle" 15
+		"Advanced Tactical Battle Suit" 15
 		"Fragmentation Grenades" 15
-		"Sidearm" 5
 		"Armageddon Core"
 		"Dwarf Core"
 		"Supercapacitor"
 		"D94-YV Shield Generator"
-		"Small Radar Jammer"
+		"Large Armory"
 		"Liquid Helium Cooler"
-		"Ramscoop"
 		"Outfits Expansion"
-		"Brig"
+		"Security Station"
 		"A520 Atomic Thruster"
 		"A525 Atomic Steering"
 		"X2200 Ion Steering"
-		"Scram Drive"
+		"Hyperdrive"
 	gun "Particle Cannon"
 	gun "Particle Cannon"
 	gun "Particle Cannon"
@@ -4375,7 +4372,7 @@ ship "Modified Argosy" "Modified Argosy (Missile)-armed1"
 		"Hyperdrive"
 
 
-ship "Modified Argosy" "Modified Argosy (Smuggler)-sidearm"
+ship "Modified Argosy" "Modified Argosy (Smuggler)"
 	outfits
 		"Beam Laser" 4
 		"Heavy Laser Turret"
