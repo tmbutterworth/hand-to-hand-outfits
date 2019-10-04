@@ -106,6 +106,7 @@ outfit "Small Armory"
 	thumbnail "outfit/small armory"
 	"capture attack" 13
 	"capture defense" 13
+	"unplunderable" 1
 	cost 200000
 	mass 10
 	"outfit space" -10
@@ -118,6 +119,7 @@ outfit "Large Armory"
 	thumbnail "outfit/large armory"
 	"capture attack" 35
 	"capture defense" 35
+	"unplunderable" 1
 	cost 600000
 	mass 20
 	"outfit space" -20
