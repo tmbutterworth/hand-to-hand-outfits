@@ -27,12 +27,16 @@ https://github.com/Cat-Lady/Boarding-Enhancements/releases
 ...for latest, pre-packaged version.
 
 **1.** Unpack ``boarding-enhancements`` to your ES plugins folder. Be sure that you have single ``boarding-enhancements`` directory inside your plugin folder, containing ``data`` and ``images`` directories. Directory structure should look like:
+
 ```(...)/plugins/boarding-enhancements/(.../data/, /images/ and other stuff)```
 
+
 It **won't** work if the directory structure will be anything like:
+
 ```(...)/plugins/Boarding-Enhancements/boarding-enhancements/(...)```
 
 **2.** Use files from ``vanilla-files-replace`` directory to replace files in your ES installation's ``/data/`` directory. Overwrite files when prompted.
+
 Do **not** put ``vanilla-files-replace`` inside your ``/data/`` directory - it won't work like that. You need to directly replace approriate files with plugin's ones.
 
 You can skip step **2.**, but some variants of Marauder ships (that should be one of toughtest nuts to crack while boarding) won't have new outfits. This step of replacing vanilla files is (hopefully) temporary workaround around limitation in ES plugin's framework - I'm already actively working with upstream to fix it, so there is a chance it won't be necessary in future (instructions and "Release" notes will higlight when that will become reality).
