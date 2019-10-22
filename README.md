@@ -27,7 +27,7 @@ https://github.com/Cat-Lady/Boarding-Enhancements/releases
 ...for latest, pre-packaged version.
 
 
-**1.** Unpack ``boarding-enhancements`` to your ES plugins folder. Be sure that you have single ``boarding-enhancements`` directory inside your plugin folder, containing ``data`` and ``images`` directories. Directory structure should look like:
+**1.** Unpack ``boarding-enhancements`` to your ES plugins folder. Be sure that you have single ``boarding-enhancements`` directory inside your plugin folder, containing ``data`` and ``images`` folders. Directory structure should look like:
 
 ```(...)/plugins/boarding-enhancements/(.../data/, /images/ and other stuff)```
 
