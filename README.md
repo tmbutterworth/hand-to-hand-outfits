@@ -5,7 +5,6 @@ This plugin integrates boarding enhancements (doh!) into FOSS game "Endless Sky"
 ![Boarding Enhancements Image](/boarding-enhancements/icon.png?raw=true "Boarding Enhancements")
 
 
-
 ## Features
 - 8 new types of gear for your (and enemy) crew to use during boarding - ranging from Dirt Belt's hunting rifles and small sidearms, to full fledged Navy's Advanced Tactical Battle Suit.
 
