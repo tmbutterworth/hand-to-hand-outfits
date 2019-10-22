@@ -57,8 +57,6 @@ You can skip step **#2.**, but some variants of Marauder ships (that should be o
 
 This project is licensed under the GPL3 License - see the [LICENSE.md](LICENSE.md) file for details
 
-![Battle Armor Image](/boarding-enhancements/images/outfit/flack%20vest.png?raw=true "Battle Armor Image")
-
 
 ## Acknowledgments
 
@@ -70,3 +68,5 @@ Lleyton, KIV King from "Endless Sky" Chat Community - for proofreading and error
 Timothy Butterworth; for the initial base of the plugin
 
 Phil Morley, Rafael Ramawadh, kisspng.com - for base artwork.
+
+![Battle Armor Image](/boarding-enhancements/images/outfit/flack%20vest.png?raw=true "Battle Armor Image")
