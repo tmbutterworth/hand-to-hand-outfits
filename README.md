@@ -22,6 +22,7 @@ This plugin integrates boarding enhancements (doh!) into FOSS game "Endless Sky"
 
 Check:
 https://github.com/Cat-Lady/Boarding-Enhancements/releases
+
 ...for latest, pre-packaged version.
 
 **1.** Unpack ``boarding-enhancements`` to your ES plugins folder. Be sure that you have single ``boarding-enhancements`` directory inside your plugin folder, containing ``data`` and ``images`` directories. Directory structure should look like:
