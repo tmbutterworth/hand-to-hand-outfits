@@ -19,7 +19,7 @@ This plugin integrates boarding enhancements (doh!) into FOSS game "Endless Sky"
 ![Sidearm Image](/boarding-enhancements/images/outfit/sidearm.png?raw=true "Sidearm Image")
 
 
-### Installing
+## Installing
 
 Check:
 https://github.com/Cat-Lady/Boarding-Enhancements/releases
