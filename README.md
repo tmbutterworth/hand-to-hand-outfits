@@ -43,7 +43,7 @@ Do **not** put ``vanilla-files-replace`` inside your ``/data/`` directory - it w
 
 You can skip step **#2.**, but some variants of Marauder ships (that should be one of toughtest nuts to crack while boarding) won't have new outfits. This step of replacing vanilla files is (hopefully) temporary workaround around limitation in ES plugin's framework - I'm already actively working with upstream to fix it, so there is a chance it won't be necessary in future (instructions and "Release" notes will higlight when that will become reality).
 
-![Stun Grenades Image](/boarding-enhancements/images/outfit/stun grenades.png?raw=true "Stun Grenades Image")
+![Stun Grenades Image]('/boarding-enhancements/images/outfit/stun grenades.png'?raw=true "Stun Grenades Image")
 
 
 ## Author
