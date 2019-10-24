@@ -569,8 +569,8 @@ ship "Marauder Leviathan" "Marauder Leviathan-tacarmed10"
 		"Large Radar Jammer"
 		"Liquid Helium Cooler"
 		"Outfits Expansion" 2
-		"Laser Rifle" 69
-		"Battle Armor & Equipment" 59
+		"Laser Rifle" 34
+		"Battle Armor & Equipment" 25
 		"Advanced Tactical Battle Suit" 10
 
 		"A370 Atomic Thruster"
@@ -595,7 +595,8 @@ ship "Marauder Leviathan" "Marauder Leviathan (Engines)"
 		"Liquid Helium Cooler"
 		"Liquid Nitrogen Cooler"
 		"Outfits Expansion" 2
-		"Battle Armor & Equipment" 69
+		"Laser Rifle" 34
+		"Battle Armor & Equipment" 35
 		
 		"A860 Atomic Thruster"
 		"A865 Atomic Steering"
@@ -623,7 +624,9 @@ ship "Marauder Leviathan" "Marauder Leviathan (Weapons)"
 		"Large Radar Jammer"
 		"Liquid Helium Cooler"
 		"Outfits Expansion" 2
-		"Battle Armor & Equipment" 69
+		"Laser Rifle" 34
+		"Battle Armor & Equipment" 25
+		"Advanced Tactical Battle Suit" 10
 
 		"A370 Atomic Thruster"
 		"A525 Atomic Steering"
