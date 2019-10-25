@@ -4400,8 +4400,7 @@ ship "Mule" "Mule-armed1"
 		"LP072a Battery Pack"
 		"D41-HY Shield Generator"
 		"Small Radar Jammer"
-		"Security Station"
-		"Ramscoop"
+		"Security Station" 2
 		"Laser Rifle"
 		"Battle Armor & Equipment"
 		"X3700 Ion Thruster"
@@ -4423,7 +4422,7 @@ ship "Mule" "Mule (Hai Engines)-armed1"
 		"Hai Fissure Batteries"
 		"D41-HY Shield Generator"
 		"Small Radar Jammer"
-		"Security Station"
+		"Security Station" 2
 		"Water Coolant System"
 		"Cooling Ducts"
 		"Outfits Expansion"
@@ -4432,21 +4431,20 @@ ship "Mule" "Mule (Hai Engines)-armed1"
 		"Battle Armor & Equipment"
 		`"Bondir" Atomic Thruster`
 		`"Biroo" Atomic Steering`
-		`"Basrem" Atomic Steering`
 		"Hyperdrive"
 
 
 ship "Mule" "Mule (Hai Weapons)-armed2"
 	outfits
 		"Ion Cannon"
-		"Pulse Turret" 4
+		"Pulse Turret" 3
+		"Chameleon Anti-Missile" 1
 		"Geode Reactor"
 		"Hai Ravine Batteries"
 		"Hai Fissure Batteries"
 		"D67-TM Shield Generator"
 		"Water Coolant System"
 		"Outfits Expansion" 3
-		"Ramscoop"
 		"Pulse Rifle" 2
 		"Battle Armor & Equipment" 2
 		"A370 Atomic Thruster"
@@ -4456,18 +4454,20 @@ ship "Mule" "Mule (Hai Weapons)-armed2"
 
 ship "Mule" "Mule (Heavy)-armed2"
 	outfits
-		"Heavy Laser Turret" 4
+		"Heavy Laser Turret" 3
+		"Heavy Anti-Missile Turret"
 		"Sidewinder Missile Launcher" 2
 		"Sidewinder Missile" 90
 		"Fission Reactor"
 		"LP072a Battery Pack"
-		"Supercapacitor" 4
+		"Supercapacitor" 3
 		"D67-TM Shield Generator"
 		"Water Coolant System"
 		"Outfits Expansion"
 		"Small Armory"
 		"Laser Rifle" 2
 		"Battle Armor & Equipment" 2
+		"Security Station"
 		"A370 Atomic Thruster"
 		"A375 Atomic Steering"
 		"Hyperdrive"
